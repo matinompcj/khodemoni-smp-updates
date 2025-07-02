@@ -2,7 +2,8 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
-        "id": "1-Beta-S1",
+    {
+        "id": "1.0.0",
         "releasedAt": 209384093820,
         "promotions": {
             "downloads": {
